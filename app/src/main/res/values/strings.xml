@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TrabalhoOthon!</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Gerador de Frases</string>
+    <string name="second_fragment_label">Sobre o autor</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="author_data">
+        Nome: Paulo Reis\nCurso: BSI\nSemestre: 8º Semestre\nDocente: Othon Batista
+    </string>
+
+    <string name="phrase">…</string>
+
+    <string name="next_button">Proxima</string>
+    <string name="previous_button">Anterior</string>
+    <string name="random_button">Aleatória</string>
+    <string name="back_button">Voltar</string>
+    <string name="credits_button">Sobre o Autor</string>
+</resources>
